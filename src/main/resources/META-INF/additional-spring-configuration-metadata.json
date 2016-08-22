@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "get.account.id",
+    "type": "java.lang.String",
+    "description": "A description for 'get.account.id'"
+  },
+  {
+    "name": "get.account.newName",
+    "type": "java.lang.String",
+    "description": "A description for 'get.account.newName'"
+  },
+  {
+    "name": "reactive.rest.url",
+    "type": "java.lang.String",
+    "description": "A description for 'reactive.rest.url'"
+  }
+]}
